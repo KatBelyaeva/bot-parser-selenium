@@ -1,3 +1,4 @@
 secret.py
 *.pyc
 /parser_bot/
+*.xml
